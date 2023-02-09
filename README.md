@@ -1,13 +1,18 @@
 ### Hi there 👋, Hi , I' m Ender Erol 👋
 
 
-I'm Software Developer, Swimming Coach and interested with XR
+I'm passionate Software Developer, Swimming Coach and interested with XR
 
-Skills: C# / Unity / SPYDER / Game Architecture
+Skills and Experience
+* 💻 C#
+* 🖥 Python
+* 🎮 Unity 
+* 🕸 SPYDER 
+* 🕹 Game Architecture
 
-- 🔭 I’m currently working on ReoTek 
-- 🌱 I’m currently learning C#, Python, Unity 
-- 👯 I’m looking to collaborate on Youtube 
+- 🔭 I’m currently working on ReoTek as a Unity Developer. 
+- 🌱 I’m currently learning C#, Python, Unity .
+- 👯 I’m looking to collaborate on Youtube .
 
 Contact Me:
 
