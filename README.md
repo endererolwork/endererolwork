@@ -30,5 +30,9 @@ Skills and Experience
 
 
 
+https://github.com/endererolwork/endererolwork/assets/112380859/92cd4fb9-175b-4fda-b360-c1ab29b0ec28
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=endererolwork&show_icons=true)  
 
