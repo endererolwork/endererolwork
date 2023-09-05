@@ -25,16 +25,18 @@
 
 
 ______________________________________________________________ PROJECTS _____________________________________________________________________________
+The video and code snippets I have shared below have been used to promote the projects I have developed within Reo-tek.
+
 LİDAR Bacterial Defence Game
 
 In the Phytopathogens Digital Table project, an application was developed using photographs of numerous bacteria. These photographs depict the bacteria as if they were floating within cells, and they also include detailed information about each bacterium.
 
+UDP data coming from Lidar was taken and processed and integrated into the project as windows mouse touch.
 ```ruby
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using UnityEngine;
-
 
 public class LidarController : MonoBehaviour
 {
