@@ -27,26 +27,70 @@
 ______________________________________________________________ PROJECTS _____________________________________________________________________________
 LİDAR Bacterial Defence Game
 
+In the Phytopathogens Digital Table project, an application was developed using photographs of numerous bacteria. These photographs depict the bacteria as if they were floating within cells, and they also include detailed information about each bacterium.
+
+```ruby
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+using UnityEngine;
+
+
+public class LidarController : MonoBehaviour
+{
+    public int port = 3333;
+    private UdpClient udpClient;
+    private IPEndPoint remoteEndPoint;
+    private Baloon balloon;
+
+    private void Start()
+    {
+        udpClient = new UdpClient(port);
+        IPEndPoint remoteEndPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), port);
+        balloon = FindObjectOfType<Baloon>();
+    }
+
+    private void Update()
+    {
+        if (udpClient.Available > 0)
+        {
+            byte[] data = udpClient.Receive(ref remoteEndPoint);
+            string lidarData = Encoding.ASCII.GetString(data);
+
+            // Use lidarData to trigger mouse down event in Baloon script
+            if (lidarData == "trigger")
+            {
+                Debug.Log("Lidar data received: " + lidarData);
+            }
+        } 
+    }
+
+    private void OnDestroy()
+    {
+        udpClient.Close();
+    }
+}
+```
 
 https://github.com/endererolwork/endererolwork/assets/112380859/92cd4fb9-175b-4fda-b360-c1ab29b0ec28
 
-
+Book Reviewing Game with Camera
 
 https://github.com/endererolwork/endererolwork/assets/112380859/d469ea82-c25f-4b6b-a6fe-e8cd30823d00
 
-
+DNA
 
 https://github.com/endererolwork/endererolwork/assets/112380859/de8c35ec-0e46-4d69-97e4-54a5a0b3e818
 
-
+Species Pool
 
 https://github.com/endererolwork/endererolwork/assets/112380859/29126d8c-7b66-45b3-ba8a-d7091484f203
 
-
+Phytopathogens Digital Table
 
 https://github.com/endererolwork/endererolwork/assets/112380859/908e157c-e13e-44ed-8276-48f942cb16d4
 
-
+Burakın proje
 
 https://github.com/endererolwork/endererolwork/assets/112380859/507f828f-2877-4208-8019-19808acddcb3
 
