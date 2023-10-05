@@ -26,10 +26,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endererolwork&" alt="endererolwork" /></p>
 
 
-______________________________________________________________ PROJECTS _____________________________________________________________________________
+__________________________________________________________ PROJECTS _________________________________________________________________________
 The video and code snippets I have shared below have been used to promote the projects I have developed within Reo-tek.
 
-LİDAR Bacterial Defence Game
+LİDAR Bacterial Defence Game Project
 
 In the Phytopathogens Digital Table project, an application was developed using photographs of numerous bacteria. These photographs depict the bacteria as if they were floating within cells, and they also include detailed information about each bacterium.
 
@@ -78,25 +78,32 @@ public class LidarController : MonoBehaviour
 
 https://github.com/endererolwork/endererolwork/assets/112380859/92cd4fb9-175b-4fda-b360-c1ab29b0ec28
 
-Book Reviewing Game with Camera
+Book Reviewing Game with Camera Project
 
 https://github.com/endererolwork/endererolwork/assets/112380859/d469ea82-c25f-4b6b-a6fe-e8cd30823d00
 
-DNA
+DNA Project
 
 https://github.com/endererolwork/endererolwork/assets/112380859/de8c35ec-0e46-4d69-97e4-54a5a0b3e818
 
-Species Pool
+Species Pool Project
 
 https://github.com/endererolwork/endererolwork/assets/112380859/29126d8c-7b66-45b3-ba8a-d7091484f203
 
-Phytopathogens Digital Table
+Phytopathogens Digital Table Project
 
 https://github.com/endererolwork/endererolwork/assets/112380859/908e157c-e13e-44ed-8276-48f942cb16d4
 
-Burakın proje
+Biological Defence Project
 
 https://github.com/endererolwork/endererolwork/assets/112380859/507f828f-2877-4208-8019-19808acddcb3
 
+
+Tubitak Health and Safety Executive VR Project
+
+https://github.com/endererolwork/endererolwork/assets/112380859/f27a5644-53aa-4a0e-ad58-63ea1646a117
+
+
+https://github.com/endererolwork/endererolwork/assets/112380859/08f6a5c6-5910-433a-ab72-93bbd862ce7b
 
 
