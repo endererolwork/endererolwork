@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReoTek as a Unity Developer.**
 
-- 🌱 I’m currently learning **C#, Python, Unity, OpenCV**
+- 🌱 I’m currently learning **C#, Python, Unity, OpenCV, Unreal Engine**
 
 - 📫 How to reach me **endererol.work@gmail.com**
 
@@ -34,47 +34,7 @@ LİDAR Bacterial Defence Game Project
 In the Phytopathogens Digital Table project, an application was developed using photographs of numerous bacteria. These photographs depict the bacteria as if they were floating within cells, and they also include detailed information about each bacterium.
 
 UDP data coming from Lidar was taken and processed and integrated into the project as windows mouse touch.
-```ruby
-using System.Net;
-using System.Net.Sockets;
-using System.Text;
-using UnityEngine;
 
-public class LidarController : MonoBehaviour
-{
-    public int port = 3333;
-    private UdpClient udpClient;
-    private IPEndPoint remoteEndPoint;
-    private Baloon balloon;
-
-    private void Start()
-    {
-        udpClient = new UdpClient(port);
-        IPEndPoint remoteEndPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), port);
-        balloon = FindObjectOfType<Baloon>();
-    }
-
-    private void Update()
-    {
-        if (udpClient.Available > 0)
-        {
-            byte[] data = udpClient.Receive(ref remoteEndPoint);
-            string lidarData = Encoding.ASCII.GetString(data);
-
-            // Use lidarData to trigger mouse down event in Baloon script
-            if (lidarData == "trigger")
-            {
-                Debug.Log("Lidar data received: " + lidarData);
-            }
-        } 
-    }
-
-    private void OnDestroy()
-    {
-        udpClient.Close();
-    }
-}
-```
 
 https://github.com/endererolwork/endererolwork/assets/112380859/92cd4fb9-175b-4fda-b360-c1ab29b0ec28
 
