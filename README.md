@@ -31,11 +31,6 @@ The video and code snippets I have shared below have been used to promote the pr
 
 LİDAR Bacterial Defence Game Project
 
-In the Phytopathogens Digital Table project, an application was developed using photographs of numerous bacteria. These photographs depict the bacteria as if they were floating within cells, and they also include detailed information about each bacterium.
-
-UDP data coming from Lidar was taken and processed and integrated into the project as windows mouse touch.
-
-
 https://github.com/endererolwork/endererolwork/assets/112380859/92cd4fb9-175b-4fda-b360-c1ab29b0ec28
 
 Book Reviewing Game with Camera Project
