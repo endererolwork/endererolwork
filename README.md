@@ -27,7 +27,7 @@
 
 
 __________________________________________________________ PROJECTS _________________________________________________________________________
-The video and code snippets I have shared below have been used to promote the projects I have developed within Reo-tek.
+Videos I have shared below have been used to promote the projects I have developed within Reo-tek.
 
 LİDAR Bacterial Defence Game Project
 
