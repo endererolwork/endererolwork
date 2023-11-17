@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReoTek as a Unity Developer.**
 
-- 🌱 I’m currently learning **C#, Python, Unity, OpenCV, Unreal Engine**
+- 🌱 I’m currently learning **C#, Python, Unity, OpenCV, Unreal Engine, C++**
 
 - 📫 How to reach me **endererol.work@gmail.com**
 
