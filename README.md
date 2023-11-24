@@ -27,7 +27,11 @@
 
 
 __________________________________________________________ PROJECTS _________________________________________________________________________
-Videos I have shared below have been used to promote the projects I have developed within Reo-tek.
+The videos I shared below were used to promote the projects I developed within Reo-tek.
+
+Kibris Barbarlik Müzesi
+
+https://www.reo-tek.com/kibris-barbarlik-muzesi
 
 LİDAR Bacterial Defence Game Project
 
@@ -48,6 +52,10 @@ https://github.com/endererolwork/endererolwork/assets/112380859/507f828f-2877-42
 
 
 Tubitak Health and Safety Executive VR Project
+
+
+https://github.com/endererolwork/endererolwork/assets/112380859/e435e449-6a7c-46c5-b7d0-8756728b9fb8
+
 
 https://github.com/endererolwork/endererolwork/assets/112380859/f27a5644-53aa-4a0e-ad58-63ea1646a117
 
