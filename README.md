@@ -1,9 +1,9 @@
 
  [![MasterHead](https://dotnet.microsoft.com/static/images/games/unity/unity-engine-landscape-swimlane.png?v=qXuAEuTmn1teWmBipAskcg5IpW6Tn2fEunOIqAYui20)
 <h1 align="center">Hi there 👋 I' m Ender Erol</h1>
-<h3 align="center">I'm passionate Software Engineer, Swimming Coach and interested with XR.</h3>
+<h3 align="center">I'm passionate game developer, swimming coach and interested with game development.</h3>
 
-- 🔭 I’m currently working on **ReoTek as a Unity Developer.**
+- 🔭 I’m currently working on **ReoTek as a Game Developer.**
 
 - 🌱 I’m currently learning **C#, Python, Unity, OpenCV, Unreal Engine, C++**
 
