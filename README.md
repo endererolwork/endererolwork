@@ -33,7 +33,7 @@ Kibris Barbarlik Müzesi
 
 https://www.reo-tek.com/kibris-barbarlik-muzesi
 
-LİDAR Bacterial Defence Game Project
+LIDAR Bacterial Defence Game Project
 
 https://github.com/endererolwork/endererolwork/assets/112380859/92cd4fb9-175b-4fda-b360-c1ab29b0ec28
 
