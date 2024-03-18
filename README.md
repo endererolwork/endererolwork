@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋 I' m Ender Erol</h1>
 <h3 align="center">I'm passionate game developer, swimming coach and interested with game development.</h3>
 
-- 🔭 I’m currently working on **ReoTek as a Game Developer.**
+- 🔭 I’m currently working on **Etiqa as a Game Developer.**
 
 - 🌱 I’m currently learning **C#, Python, Unity, OpenCV, Unreal Engine, C++**
 
