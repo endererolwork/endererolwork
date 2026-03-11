@@ -1,9 +1,9 @@
 
  [![MasterHead](https://dotnet.microsoft.com/static/images/games/unity/unity-engine-landscape-swimlane.png?v=qXuAEuTmn1teWmBipAskcg5IpW6Tn2fEunOIqAYui20)
 <h1 align="center">Hi there 👋 I' m Ender Erol</h1>
-<h3 align="center">I'm passionate software developer, swimming coach and interested with game development.</h3>
+<h3 align="center">I'm passionate software developer, swimming coach and interested with AR-VR-simulation development.</h3>
 
-- 🔭 I’m currently working on **Etiqa as a Software Developer.**
+- 🔭 I’m currently working on **Etiqa as a Software Engineer.**
 
 - 🌱 I’m currently learning **C#, Python, Unity, OpenCV, Unreal Engine, C++**
 
@@ -27,11 +27,15 @@
 
 
 __________________________________________________________ PROJECTS _________________________________________________________________________
-The videos I shared below were used to promote the projects I developed within Reo-tek.
+The videos I shared below were used to promote the projects I developed within Reo-tek and Etiqa.
+
+Geospatial API(GIS) and AR solutions
+
+https://github.com/user-attachments/assets/f0ff848f-e68b-4833-8f1e-b79e6a53d55f
 
 Kibris Barbarlik Müzesi
 
-https://www.reo-tek.com/kibris-barbarlik-muzesi
+[https://www.reo-tek.com/kibris-barbarlik-muzesi](https://www.youtube.com/watch?v=6telwTvpFd4)
 
 LIDAR Bacterial Defence Game Project
 
