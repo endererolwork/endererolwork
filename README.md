@@ -1,9 +1,9 @@
 
  [![MasterHead](https://dotnet.microsoft.com/static/images/games/unity/unity-engine-landscape-swimlane.png?v=qXuAEuTmn1teWmBipAskcg5IpW6Tn2fEunOIqAYui20)
 <h1 align="center">Hi there 👋 I' m Ender Erol</h1>
-<h3 align="center">I'm passionate game developer, swimming coach and interested with game development.</h3>
+<h3 align="center">I'm passionate software developer, swimming coach and interested with game development.</h3>
 
-- 🔭 I’m currently working on **Etiqa as a Game Developer.**
+- 🔭 I’m currently working on **Etiqa as a Software Developer.**
 
 - 🌱 I’m currently learning **C#, Python, Unity, OpenCV, Unreal Engine, C++**
 
@@ -60,13 +60,4 @@ https://github.com/endererolwork/endererolwork/assets/112380859/e435e449-6a7c-46
 https://github.com/endererolwork/endererolwork/assets/112380859/f27a5644-53aa-4a0e-ad58-63ea1646a117
 
 
-https://github.com/endererolwork/endererolwork/assets/112380859/08f6a5c6-5910-433a-ab72-93bbd862ce7b
-
-Species Pool Project
-
-https://github.com/endererolwork/endererolwork/assets/112380859/29126d8c-7b66-45b3-ba8a-d7091484f203
-
-Phytopathogens Digital Table Project
-
-https://github.com/endererolwork/endererolwork/assets/112380859/908e157c-e13e-44ed-8276-48f942cb16d4
 
