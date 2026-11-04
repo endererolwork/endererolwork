@@ -22,27 +22,33 @@ M.S. in Computer Animation & Game Technologies (Hacettepe University).
 
 Geospatial API(GIS) and AR solutions
 Unity ARCore + Google Geospatial API. Underground utility networks visualized on site as 3D models anchored to real-world coordinates.
+
 https://github.com/user-attachments/assets/f0ff848f-e68b-4833-8f1e-b79e6a53d55f
 
 Kibris Barbarlik Müzesi
 Interactive museum applications.
+
 [https://www.reo-tek.com/kibris-barbarlik-muzesi](https://www.youtube.com/watch?v=6telwTvpFd4)
 
 LIDAR Bacterial Defence Game Project
 Museum installation: visitors throw real balls at a wall; LIDAR detects hits in Unity.
+
 https://github.com/endererolwork/endererolwork/assets/112380859/92cd4fb9-175b-4fda-b360-c1ab29b0ec28
 
 Book Reviewing Game with Camera Project
 Camera-based interaction using OpenCV image processing.
+
 https://github.com/endererolwork/endererolwork/assets/112380859/d469ea82-c25f-4b6b-a6fe-e8cd30823d00
 
 DNA Project
 Interactive educational museum experiences.
+
 https://github.com/endererolwork/endererolwork/assets/112380859/de8c35ec-0e46-4d69-97e4-54a5a0b3e818
 
 
 Biological Defence Project
 Interactive educational museum experiences.
+
 https://github.com/endererolwork/endererolwork/assets/112380859/507f828f-2877-4208-8019-19808acddcb3
 
 
