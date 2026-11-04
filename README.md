@@ -1,5 +1,3 @@
-
- [![MasterHead](https://dotnet.microsoft.com/static/images/games/unity/unity-engine-landscape-swimlane.png?v=qXuAEuTmn1teWmBipAskcg5IpW6Tn2fEunOIqAYui20)
 <h1 align="center">Ender Erol</h1>
 <h3 align="center">Simulation & XR Software Engineer · Unity / C# · Digital Twin</h3>
 <p align="center">Ankara, Türkiye · Open to new roles (on-site / remote)</p>
