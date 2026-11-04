@@ -1,62 +1,55 @@
 
  [![MasterHead](https://dotnet.microsoft.com/static/images/games/unity/unity-engine-landscape-swimlane.png?v=qXuAEuTmn1teWmBipAskcg5IpW6Tn2fEunOIqAYui20)
-<h1 align="center">Hi there 👋 I' m Ender Erol</h1>
-<h3 align="center">I'm passionate software developer, swimming coach and interested with AR-VR-simulation development.</h3>
+<h1 align="center">Ender Erol</h1>
+<h3 align="center">Simulation & XR Software Engineer · Unity / C# · Digital Twin</h3>
+<p align="center">Ankara, Türkiye · Open to new roles (on-site / remote)</p>
 
-- 🔭 I’m currently working on **Etiqa as a Software Engineer.**
+I build real-time 3D simulations, VR/AR training apps and digital twins with Unity and C#.
+5+ years of professional experience, with published apps on the **App Store** and **Meta Store**.
+M.S. in Computer Animation & Game Technologies (Hacettepe University).
 
-- 🌱 I’m currently learning **C#, Python, Unity, OpenCV, Unreal Engine, C++**
+- 📱 **Published:** TEDAŞ Dijital Atölye: [App Store](<https://apps.apple.com/tr/app/tedas-dijital-at%C3%B6lye/id6471677997>) · [Meta Store](<https://www.meta.com/tr-tr/experiences/1278480912008946/?srsltid=AYCX9vKHEL6aeGfZPWqoBJIqG648Qg5bhhYHHt61Eb7TVQ761ElL4hpl>)
+- 🛰️ **Digital twin:** AR geospatial app anchoring underground electricity, water and gas networks to real-world coordinates
+- 🥽 **VR simulation:** fire, training and maintenance scenarios for electricity distribution companies
+- 👁️ **Computer vision:** LIDAR and camera-based interactive installations for 3 museums (15+ apps)
 
-- 📫 How to reach me **endererol.work@gmail.com**
+**Tech:** Unity · C# · C++ · Python · HLSL/Shaders · ARCore · Google Geospatial API · OpenCV · WebGL · Unreal Engine · Git
 
-- https://leetcode.com/roxender/ for individual practice
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/endererol-gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="endererol-gd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/endererol9554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="endererol9554" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+📫 endererol.work@gmail.com · [LinkedIn](https://www.linkedin.com/in/endererol-gd/) 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=endererolwork&show_icons=true&locale=en" alt="endererolwork" /></p>
+## Selected projects
+*Videos of projects I developed at Etiqa and Reo-Tek (shared for portfolio purposes).*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=endererolwork&" alt="endererolwork" /></p>
-
-
-__________________________________________________________ PROJECTS _________________________________________________________________________
-The videos I shared below were used to promote the projects I developed within Reo-tek and Etiqa.
 
 Geospatial API(GIS) and AR solutions
-
+Unity ARCore + Google Geospatial API. Underground utility networks visualized on site as 3D models anchored to real-world coordinates.
 https://github.com/user-attachments/assets/f0ff848f-e68b-4833-8f1e-b79e6a53d55f
 
 Kibris Barbarlik Müzesi
-
+Interactive museum applications.
 [https://www.reo-tek.com/kibris-barbarlik-muzesi](https://www.youtube.com/watch?v=6telwTvpFd4)
 
 LIDAR Bacterial Defence Game Project
-
+Museum installation: visitors throw real balls at a wall; LIDAR detects hits in Unity.
 https://github.com/endererolwork/endererolwork/assets/112380859/92cd4fb9-175b-4fda-b360-c1ab29b0ec28
 
 Book Reviewing Game with Camera Project
-
+Camera-based interaction using OpenCV image processing.
 https://github.com/endererolwork/endererolwork/assets/112380859/d469ea82-c25f-4b6b-a6fe-e8cd30823d00
 
 DNA Project
-
+Interactive educational museum experiences.
 https://github.com/endererolwork/endererolwork/assets/112380859/de8c35ec-0e46-4d69-97e4-54a5a0b3e818
 
 
 Biological Defence Project
-
+Interactive educational museum experiences.
 https://github.com/endererolwork/endererolwork/assets/112380859/507f828f-2877-4208-8019-19808acddcb3
 
 
 Tubitak Health and Safety Executive VR Project
-
+VR occupational health and safety training simulation.
 
 https://github.com/endererolwork/endererolwork/assets/112380859/e435e449-6a7c-46c5-b7d0-8756728b9fb8
 
