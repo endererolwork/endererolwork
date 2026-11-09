@@ -19,6 +19,17 @@ M.S. in Computer Animation & Game Technologies (Hacettepe University).
 ## Selected projects
 *Videos of projects I developed at Etiqa and Reo-Tek (shared for portfolio purposes).*
 
+Virtual Reality Tank Demo
+
+https://youtu.be/n0h9Q60FAW8
+
+AR Izolator with side camera
+
+https://youtu.be/uvzONMbaHPY
+
+Occupational safety and health and maintenance and repair work (VR)
+
+https://youtu.be/zcS49iedBuQ
 
 Geospatial API(GIS) and AR solutions
 Unity ARCore + Google Geospatial API. Underground utility networks visualized on site as 3D models anchored to real-world coordinates.
