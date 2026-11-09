@@ -23,7 +23,7 @@ Virtual Reality Tank Demo
 
 https://youtu.be/n0h9Q60FAW8
 
-AR Izolator with side camera
+AR glass insulator with side camera
 
 https://youtu.be/uvzONMbaHPY
 
